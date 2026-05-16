@@ -15,3 +15,7 @@ A responsive portfolio website built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+
+Netlify: https://hari-basic-portfolio.netlify.app/
